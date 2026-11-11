@@ -5,7 +5,7 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgba(182, 205, 231, 0.753);
+    background-color: rgba(196, 108, 188, 0.753);
 }
 
 .page {
@@ -72,5 +72,5 @@ body {
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid rgb(161, 124, 124);
-    box-shadow: 0 19px 35px rgb(121, 145, 190);
+    box-shadow: 0 19px 35px rgb(32, 87, 190);
 }
